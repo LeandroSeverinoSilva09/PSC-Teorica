@@ -1,0 +1,124 @@
+computador
+cor: prata
+Marca: Acer
+memória Ram: 8GB
+Armazenamento: 256GB
+tipo de armazenamento: SSD
+processador: core i5=10210U
+placa de vídeo: Nvidia mx250
+Ações
+ligar 
+armazenar 
+processar 
+desligar 
+
+celular
+marca: Samsung
+modelo: galaxy S23+
+memoria ram: 8gb
+armazenamento: 512GB
+cor: grafite
+Ações
+Fazer chamadas
+Tirar fotos
+
+pessoas
+nome: Leandro Severino da Silva
+idade: 19
+cpf: 010.198.686-96
+altura: 1,85
+Ações
+andar 
+comer 
+nadar
+
+cachoro
+raça: bulldog
+peso: 15kg
+idade: 1 ano
+pelagem: fina
+Ações
+comer
+latir
+correr 
+
+arcondicionado
+marca: samsung
+modelo: inverter
+potencia: 12.000 BTU
+temperatura minima: 16
+temperatura maxima: 25
+Ações
+resfriar 
+esquentar
+ventilar
+
+calculadora
+modelo: cientifca
+marca: hp
+cor: preta
+tela: digital
+Ações
+somar
+subtrair
+multiplicar
+dividir
+
+carro
+marca: fiat
+modelo: UNO
+ano: 2011
+aro: 13
+cor: prata
+Ações 
+correr
+dar partida
+desligar
+fazer barulho
+
+chuveiro
+marca: lorenzeti
+cor: branco
+preço: 60,00
+Ações 
+esquentar
+molhar
+controlar fluxo de água
+
+maquina de lavar
+marca: LG
+cor: prata
+capacidade: 13kg
+Ações 
+centrifugar
+lavar
+enxugar
+
+alexa
+cor: azul
+modelo: echo dot 5
+fabricante: Amazon
+ano: 2023
+Ações 
+falar 
+escutar
+reproduzir música
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
